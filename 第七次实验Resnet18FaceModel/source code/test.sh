@@ -1,0 +1,1 @@
+python main.py --verify-model /root/wyf/Experiment-7/center-loss/log/models/epoch_95.pth.tar --verify-images images/Taylor2.jpg,images/Emma2.jpg

@@ -1,0 +1,1 @@
+python main.py --arch resnet18 --batch_size 64 --epochs 100
