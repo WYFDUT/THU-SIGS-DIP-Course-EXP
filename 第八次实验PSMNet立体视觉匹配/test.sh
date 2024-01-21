@@ -1,0 +1,1 @@
+python submission.py --maxdisp 192 --model stackhourglass --KITTI 2015 --datapath /private/workspace/data_scene_flow_2015/testing/ --loadmodel save_models_3/finetune_300.tar
